@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   font-size: 100px;
    z-index: 20;
-  color: #5c658a;
+  color: #fff;
   animation: serifTransition 2s ease-in-out infinite alternate;
 }
 
@@ -28,7 +28,7 @@ h1 {
   font-variation-settings: "SRFF" 100, "wght" 400;
   text-align: center;
   font-size: 40px;
-  color: #5c658a;
+  color: #fff;
 }
 
 .era2 {
@@ -36,7 +36,7 @@ h1 {
   font-variation-settings: "SRFF" 50, "wght" 400;
   text-align: center;
   font-size: 40px;
-  color: #5c658a;
+  color: #fff;
 }
 
 .era3 {
@@ -44,7 +44,7 @@ h1 {
   font-variation-settings: "SRFF" 0, "wght" 400;
   text-align: center;
   font-size: 40px;
-  color: #5c658a;
+  color: #fff;
 }
 
 body {
